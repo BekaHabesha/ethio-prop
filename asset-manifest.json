@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ethio-prop/static/css/main.13e58ad6.css",
+    "main.js": "/ethio-prop/static/js/main.7d42b166.js",
+    "index.html": "/ethio-prop/index.html",
+    "main.13e58ad6.css.map": "/ethio-prop/static/css/main.13e58ad6.css.map",
+    "main.7d42b166.js.map": "/ethio-prop/static/js/main.7d42b166.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13e58ad6.css",
+    "static/js/main.7d42b166.js"
+  ]
+}
